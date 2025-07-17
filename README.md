@@ -69,7 +69,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliYa0771&layout=compact&theme=vision-friendly-dark)]( https://github.com/anuraghazra/github-readme-stats )
 
-### Activity in the Last Year
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nataliia0771&layout=compact)
 
 
