@@ -1,15 +1,21 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg4cncwejZ6bngxMDR5d2F5YThqNG5icnVidnYxNjJmaDBwbDJnZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y06e2KFCG48qwNMGK2/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/your-profile " target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+
+  <!-- VK -->
+  <a href=" https://vk.com/nataliia_mos " target="_blank" rel="noopener noreferrer">
+    <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/f078ac6ec27d1899b6c4a0dab9e4f7c68788855b8ba1bcf4f50fd64974d50d2a.gif" width="50" alt="VK Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+  <!-- Telegram -->
+  <a href=" https://t.me/Nataliia0771 " target="_blank" rel="noopener noreferrer">
+    <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/0a5d7ec84c24146cf75aad080662db93a3ef7fa5da54c0685abdf791d71beaed.gif" width="50" alt="Telegram Badge"/>
   </a>
 </div>
 
