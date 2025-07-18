@@ -13,8 +13,6 @@
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/f078ac6ec27d1899b6c4a0dab9e4f7c68788855b8ba1bcf4f50fd64974d50d2a.gif" width="50" alt="VK Badge"/>
   </a>
 
-
-
   <!-- Telegram -->
   <a href="https://t.me/Nataliia0771" target="_blank" rel="noopener noreferrer">
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/0a5d7ec84c24146cf75aad080662db93a3ef7fa5da54c0685abdf791d71beaed.gif" width="50" alt="Telegram Badge"/>
