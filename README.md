@@ -25,8 +25,8 @@
     <img src="https://komarev.com/ghpvc/?username=NataliYa0771&style=flat-square&color=green" alt=" "/>
 </div>
 <h1 align="center">
-  <strong>hello :) </strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <strong> Hello, I'm Nataliia :) </strong>
+  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>-->
 </h1>
 
 <div align="center">
@@ -34,15 +34,17 @@
 </div>
 
 ## 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+
+- 🌱 I’m currently studying on the 'Big Data Analytics' Master’s Programme at HSE University.<br><br>
+<strong>The programme trains highly qualified professionals in big data storage, processing, and analysis. Programme graduates will understand methods of applied statistical analysis and machine learning, the tools of industrial development, MLOps, the basics of database management, Data Warehouse (DWH), and Data Engineering.</strong>
+- 👯 I’m open to collaboration in data analytics and machine learning
+<!-- - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
->
+> -->
 
 ---
 
