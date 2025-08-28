@@ -7,11 +7,11 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZuamhjbGNjdDYxZGxibjgzNTFmdnN2d3lzNXV2bnR0NjVhZ2doeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l17COzMeI88CHPfBLg/giphy.gif" width="50" alt="Stepik Badge"/>
   </a>
   <!-- VK -->
-  <a href="https://vk.com/nataliia_bo" target="_blank">
+  <a href="https://vk.com/nataliiia_bo" target="_blank">
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/f078ac6ec27d1899b6c4a0dab9e4f7c68788855b8ba1bcf4f50fd64974d50d2a.gif" width="50" alt="VK Badge"/>
   </a>
   <!-- Telegram -->
-  <a href="https://t.me/nataliiia-bo" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/nataliiia_bo" target="_blank" rel="noopener noreferrer">
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/0a5d7ec84c24146cf75aad080662db93a3ef7fa5da54c0685abdf791d71beaed.gif" width="50" alt="Telegram Badge"/>
   </a>
   <!-- LinkedIn -->
