@@ -11,7 +11,7 @@
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/f078ac6ec27d1899b6c4a0dab9e4f7c68788855b8ba1bcf4f50fd64974d50d2a.gif" width="50" alt="VK Badge"/>
   </a>
   <!-- Telegram -->
-  <a href="https://t.me/Nataliia0771" target="_blank" rel="noopener noreferrer">
+  <a href="https://t.me/nataliiia-bo" target="_blank" rel="noopener noreferrer">
     <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/0a5d7ec84c24146cf75aad080662db93a3ef7fa5da54c0685abdf791d71beaed.gif" width="50" alt="Telegram Badge"/>
   </a>
   <!-- LinkedIn -->
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=NataliYa0771&style=flat-square&color=green" alt=" "/>
+    <img src="https://komarev.com/ghpvc/?username=nataliiia-bo&style=flat-square&color=green" alt=" "/>
 </div>
 <h1 align="center">
   <strong> Hello, I'm Nataliia :) </strong>
@@ -66,11 +66,11 @@
 
 ### 🔥 My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NataliYa0771&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nataliiia-bo&show_icons=true&theme=dark)
 
 ### 🔥 Top Langs :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NataliYa0771&layout=compact&theme=vision-friendly-dark)]( https://github.com/anuraghazra/github-readme-stats )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliiia-bo&layout=compact&theme=vision-friendly-dark)]( https://github.com/anuraghazra/github-readme-stats )
 
 
 
